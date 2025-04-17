@@ -11,13 +11,9 @@ This project uses machine learning to estimate calories burned during a physical
 ✅ Predict calories burned based on:
 
 Age
-
 Gender
-
 Height
-
 Weight
-
 Duration of workout
 
 🔍 Clean and user-friendly interface (CLI/Web/App)
@@ -27,9 +23,7 @@ Duration of workout
 🧪 Tech Stack: 
 
 Python
-
 Streamlit
-
 Pandas & NumPy for data manipulation
 
 
