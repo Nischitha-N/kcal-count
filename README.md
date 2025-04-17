@@ -18,6 +18,7 @@ Duration of workout
 ⚙️ Model trained on real-world fitness data
 
 🧪 Tech Stack: 
+
 Python
 Streamlit
 Pandas & NumPy for data manipulation
